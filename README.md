@@ -1,4 +1,7 @@
-2013scala
-=========
+2013 Functional Programming Principles in Scala
+================================================
 
-2013 Functional Programming Principles in Scala (coursera) Assignments
+Recursion: recfun
+Functional Sets: funsets
+Object-Oriented Sets: objsets (TODO:bug exists)
+Huffman Coding: patmat
