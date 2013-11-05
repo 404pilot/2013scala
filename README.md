@@ -10,3 +10,5 @@ Object-Oriented Sets: objsets (TODO:bug exists)
 Huffman Coding: patmat
 
 Anagrams: forcomp
+
+Bloxorz: Streams
