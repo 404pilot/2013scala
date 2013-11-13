@@ -12,3 +12,5 @@ Huffman Coding: patmat
 Anagrams: forcomp
 
 Bloxorz: Streams
+
+Quickcheck
